@@ -9,7 +9,7 @@
 
 ## 2023-11-29
 
-* Presentes: João Gabriel
+* Presentes: Eduardo Henrique, João Gabriel, João Henrique
 * Desenvolvido até a lista 7
 * Ficou lindo!
 
