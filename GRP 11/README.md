@@ -8,7 +8,7 @@
 
 ## 2023-11-29
 
-* Presentes: Guilherme Freitas, Maria Luiza
+* Presentes: Guilherme Freitas, Maria Luiza, Ellen
 * Desenvolvido até a lista 7
 * Ficou lindoooo!
 
