@@ -7,7 +7,11 @@
 - João Gabriel Candido de melo 01542139
 - João Henrique Leal Ferreira Xavier  01531035
 
-## 2023-
+## 2023-11-29
+
+* Presentes: João Gabriel
+* Desenvolvido até a lista 7
+* Ficou lindo!
 
 ## Projeto Mobile
 
