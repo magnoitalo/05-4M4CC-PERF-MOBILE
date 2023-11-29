@@ -7,3 +7,7 @@ Este repositório contém informações sobre os alunos do projeto.
 
 - **Nome:** Amanda Luana S Alves
 - **Número de Matrícula:** 01535268
+
+## 2023-11-29
+
+* Ninguém presente
