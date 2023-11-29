@@ -7,11 +7,13 @@
 - João Gabriel Candido de melo 01542139
 - João Henrique Leal Ferreira Xavier  01531035
 
-# Projeto Mobile
+## 2023-
+
+## Projeto Mobile
 
 Este é um aplicativo de gerenciamento de senhas desenvolvido com Expo Go e React Native. Ele permiete que o usuario possa criar senhas e que elas sejam gerenciadas pelo sistema de guiche.
 
-# Aviso
+## Aviso
 
 PARA QUE O PROJETO FUNCIONE CORRETAMENTE, EM CLIENT/NODE_MODULES/EXPO/AppEntry.js precisa está nesse formato (POR PADRAO AO INSTALAR VIRA EM OUTRO FORMATO)
 
