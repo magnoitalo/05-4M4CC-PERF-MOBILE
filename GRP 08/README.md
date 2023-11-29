@@ -6,7 +6,14 @@
 * Maisa Souza - 01508744
 * Renan Zloccowick - 01529935
 
-# Instruções de Instalação do Projeto
+## 2023-11-29
+
+* Presentes: Emerson Aquino, Maísa Souza
+* Desenvolvido até a lista 7
+* Ficou lindo!
+* Mas tem uma macumba sinistra, com a pasta do projeto duplicada.
+
+## Instruções de Instalação do Projeto
 
 1. Instale o Visual Studio Code
     O Visual Studio Code é um editor de código gratuito e de código aberto desenvolvido pela Microsoft. Ele é um ótimo editor para desenvolvimento web e é necessário para usar o app.
