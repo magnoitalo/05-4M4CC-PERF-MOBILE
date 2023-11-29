@@ -9,7 +9,7 @@
 
 ## 2023-11-29
 
-* Presentes: Eliabe Wesley
+* Presentes: Eliabe Wesley, Caio César
 * Desenvolvido até a lista 6
 
 ## 2023-11-21
